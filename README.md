@@ -8,7 +8,7 @@
 Black-eyed peas or cowpeas (_Vigna unguicultata_ L. Walp) are wonder plants!
 
 <param ve-image
-       label="flower of cowpea"
+       label="Pink flower of cowpea"
        description="pink flower of the cowpea"
        license="CC BY SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Wild_Cowpea_%282874731431%29.jpg"
@@ -19,6 +19,7 @@ The cowpea (Vigna unguiculata) is an annual herbaceous legume from the genus Vig
 <param ve-image
        label="wild and cultivated cowpeas"
        description="variation in wild and cultivated cowpea seeds"
+       author="Ton Rulkens"
        license="CC BY SA 2.0"
        url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg"
 
