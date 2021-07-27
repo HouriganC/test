@@ -4,7 +4,7 @@
        layout="vtl"
        author="Christina Hourigan">
 
-# The black-eyed pea: our unfailing friend
+# The black-eyed pea
 Black-eyed peas or cowpeas (_Vigna unguicultata_ L. Walp) are wonder plants!
 
 <param ve-image
