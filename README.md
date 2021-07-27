@@ -32,5 +32,6 @@ Vigna unguiculata is a member of the Vigna (peas and beans) genus. Unguiculata i
    url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Agricultural_varieties_of_the_cowpea_and_immediately_related_species_%281912%29_%2814776379064%29.jpg">
 
 ## References
-https://en.wikipedia.org/wiki/Cowpea
+[^1]: [Wikiepdia: Cowpea](https://en.wikipedia.org/wiki/Cowpea)
+
        
