@@ -26,7 +26,7 @@ The cowpea (Vigna unguiculata) is an annual herbaceous legume from the genus Vig
 Vigna unguiculata is a member of the Vigna (peas and beans) genus. Unguiculata is Latin for "with a small claw", which reflects the small stalks on the flower petals.[7] Common names for cultivated cowpeas include; black-eye pea,[8] southern pea,[9] niebe[10] (alternatively ñebbe),[11] and crowder pea.[12] All cultivated cowpeas are found within the universally accepted V. unguiculata subspecies unguiculata classification, which is then commonly divided into four cultivar groups: unguiculata, biflora, sesquipedalis, and textilis.[13][14] The classification of the wild relatives within V. unguiculata is more complicated, with over 20 different names having been used and between 3 and 10 subgroups described.[13][15] The original subgroups of stenophylla, dekindtiana, and tenuis appear to be common in all taxonomic treatments, while the variations pubescens and protractor were raised to subspecies level by a 1993 characterisation
 
 <param ve-image 
-       label="Agricultural varieites of cowpea" 
+       label="Agricultural varietes of cowpea" 
        description="agricultural varieties of cowpea" 
        license="CC BY-SA 3.0" 
    url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Agricultural_varieties_of_the_cowpea_and_immediately_related_species_%281912%29_%2814776379064%29.jpg">
