@@ -7,6 +7,12 @@
 # The black-eyed pea: our unfailing friend
 Black-eyed peas or cowpeas (_Vigna unguicultata_ L. Walp) are wonder plants!
 
+<param ve-image
+       label="wild and cultivated cowpeas"
+       description="variation in wild and cultivated cowpea seeds"
+       license="CC BY_SA 2.0"
+       url="https://upload.wikimedia.org/wikipedia/commons/6/67/Wild_and_cultivated_cowpea_%287856427546%29.jpg"
+       
 ## Introduction
 The cowpea (Vigna unguiculata) is an annual herbaceous legume from the genus Vigna. Due to its tolerance for sandy soil and low rainfall, it is an important crop in the semiarid regions across Africa and Asia. It requires very few inputs, as the plant's root nodules are able to fix atmospheric nitrogen, making it a valuable crop for resource-poor farmers and well-suited to intercropping with other crops. The whole plant is used as forage for animals, with its use as cattle feed likely responsible for its name.
 
@@ -18,3 +24,5 @@ Vigna unguiculata is a member of the Vigna (peas and beans) genus. Unguiculata i
        description="Mosaic on the asp behind the altar" 
        license="CC BY-SA 3.0" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/98/Cosmedamiao9b5.jpg">
+       
+       
