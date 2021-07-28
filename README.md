@@ -43,6 +43,8 @@ Compared to most other important crops, little is known about the domestication,
 
 <param ve-map center="10.370985860872027, 8.242887360859388" zoom="5" show-labels>
 
+<param ve-map="
+
 ## References
 Wikipedia: Cowpea (https://en.wikipedia.org/wiki/Cowpea)
 
