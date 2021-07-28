@@ -7,7 +7,7 @@
 <param ve-entity eid="Q498940"> <!––cowpea––>
 
 # The black-eyed pea
-Black-eyed peas or cowpeas (_Vigna unguicultata_ L. Walp) are wonder plants!
+Black-eyed peas or cowpeas (_Vigna unguicultata_ L. Walp) are wonder plants! Let's all eat black-eyed peas!
 
 <param ve-image
        label="Pink flower of cowpea"
@@ -35,6 +35,8 @@ _Vigna unguiculata_ is a member of the _Vigna_ (peas and beans) genus. Unguicula
        description="agricultural varieties of cowpea" 
        license="CC BY-SA 3.0" 
    url="https://upload.wikimedia.org/wikipedia/commons/1/1a/Agricultural_varieties_of_the_cowpea_and_immediately_related_species_%281912%29_%2814776379064%29.jpg">
+
+<param ve-map center="10.370985860872027, 8.242887360859388" show-labels>
 
 ## References
 Wikipedia: Cowpea (https://en.wikipedia.org/wiki/Cowpea)
