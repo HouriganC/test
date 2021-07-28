@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "wild cowpea species seed",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://free.iiifhosting.com/iiif/487b088388f66becc070100c66eb7336150edac1bec4f1b90aaa01166225fbf9",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:494.404052734375,712.125,343.64935302734375,327.5205078125"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#70ee4afa-cc1a-448b-b954-a35a091647fb"
+  }
+]
