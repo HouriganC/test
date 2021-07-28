@@ -41,7 +41,7 @@ _Vigna unguiculata_ is a member of the _Vigna_ (peas and beans) genus. Unguicula
 
 Compared to most other important crops, little is known about the domestication, dispersal, and cultivation history of the cowpea. Although there is no archaeological evidence for early cowpea cultivation, the centre of diversity of the cultivated cowpea is West Africa, leading an early consensus that this is the likely centre of origin and place of early domestication. New research using molecular markers has suggested that domestication may have instead occurred in East Africa and currently both theories carry equal weight.
 
-<param ve-map center="10.370985860872027, 8.242887360859388" zoom="0" show-labels>
+<param ve-map center="10.370985860872027, 8.242887360859388" zoom="5" show-labels>
 
 ## References
 Wikipedia: Cowpea (https://en.wikipedia.org/wiki/Cowpea)
