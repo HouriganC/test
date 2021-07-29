@@ -41,7 +41,7 @@ _Vigna unguiculata_ is a member of the _Vigna_ (peas and beans) genus. Unguicula
 
 Compared to most other important crops, little is known about the domestication, dispersal, and cultivation history of the cowpea. Although there is no archaeological evidence for early cowpea cultivation, the centre of diversity of the cultivated cowpea is West Africa, leading an early consensus that this is the likely centre of origin and place of early domestication. New research using molecular markers has suggested that domestication may have instead occurred in East Africa and currently both theories carry equal weight.
 
-<param ve-map center="Q1033" zoom="6">
+<param ve-map center="Q1033" zoom="5" show-labels>
 
 ## Cultivation
 Cowpeas thrive in poor dry conditions, growing well in soils up to 85% sand.[30] This makes them a particularly important crop in arid, semidesert regions where not many other crops will grow. As well as an important source of food for humans in poor, arid regions, the crop can also be used as feed for livestock.[31] Its nitrogen-fixing ability means that as well as functioning as a sole crop, the cowpea can be effectively intercropped with sorghum, millet, maize, cassava, or cotton.Seeds from the wild-type cowpea are much smaller than the cultivated varieties
