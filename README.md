@@ -55,7 +55,9 @@ Cowpeas thrive in poor dry conditions, growing well in soils up to 85% sand. Thi
 
 Cowpeas thrive in poor dry conditions, growing well in soils up to 85% sand. This makes them a particularly important crop in arid, semidesert regions where not many other crops will grow. As well as an important source of food for humans in poor, arid regions, the crop can also be used as feed for livestock.[31] Its nitrogen-fixing ability means that as well as functioning as a sole crop, the cowpea can be effectively intercropped with sorghum, millet, maize, cassava, or cotton.
 
-<param ve-map-layer="
+<param ve-map-layer="https://raw.githubusercontent.com/HouriganC/test/main/nativerange.json">
+
+Cowpeas thrive in poor dry conditions, growing well in soils up to 85% sand. This makes them a particularly important crop in arid, semidesert regions where not many other crops will grow. As well as an important source of food for humans in poor, arid regions, the crop can also be used as feed for livestock.[31] Its nitrogen-fixing ability means that as well as functioning as a sole crop, the cowpea can be effectively intercropped with sorghum, millet, maize, cassava, or cotton.
 
 
 ## References
